@@ -1,0 +1,10 @@
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.Form1.resources
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.csproj.GenerateResource.Cache
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuBinarizaciq.exe
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuBinarizaciq.pdb
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\bin\Debug\OtsuBinarizaciq.exe.config
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\bin\Debug\OtsuBinarizaciq.exe
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\bin\Debug\OtsuBinarizaciq.pdb
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.Properties.Resources.resources
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.DrawHistogram.resources
