@@ -8,3 +8,6 @@ C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\Ots
 C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.Properties.Resources.resources
 C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.csprojResolveAssemblyReference.cache
 C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuBinarizaciq\obj\Debug\OtsuMethod.DrawHistogram.resources
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuMethod\OtsuBinarizaciq\bin\Debug\OtsuBinarizaciq.exe.config
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuMethod\OtsuBinarizaciq\obj\Debug\OtsuBinarizaciq.exe
+C:\Users\Bojidar\Desktop\Божидар Тодоров 24525\OtsuBinarizaciq\OtsuMethod\OtsuBinarizaciq\obj\Debug\OtsuBinarizaciq.pdb
